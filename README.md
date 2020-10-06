@@ -1,2 +1,2 @@
 # natashi.github.io
-Natashi's GitHub pages(?)
+A site mainly intended to host documentations for Danmakufu ph3sx. Might be also used for other things in the future.
