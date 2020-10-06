@@ -10,3 +10,13 @@ Its main repository can be accessed here.
 https://github.com/Natashi/Touhou-Danmakufu-ph3sx-2
 
 Please feel free to report any bugs and/or request any features in the "Issues" tab.
+
+### Releases
+
+https://github.com/Natashi/Touhou-Danmakufu-ph3sx-2/releases
+
+### Changelog
+
+
+
+### Documentations
